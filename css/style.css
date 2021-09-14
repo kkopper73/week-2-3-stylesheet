@@ -60,3 +60,25 @@ hr{
     height: 100%;
     width: auto;
 }
+
+
+.skill-row{
+    width: 25%;
+    text-align: left;
+    margin: 2rem auto;
+    overflow: hidden;
+}
+
+
+.code-img{
+    height: 25%;
+    width: 25%;
+    float: left;
+    margin-right: 2rem;
+}
+
+.hobbies-img{
+   height: 25%;
+   width: 25%;
+   float: right;
+}
